@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Web dev and app development
 - 🌱 I’m currently learning ... python
 - 💞️ I’m looking to collaborate on ... 
-- 📫 How to reach me ...message me at github
+- 📫 How to reach me ...just mail me..
 
 <!---
 Blackburn1829/Blackburn1829 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
